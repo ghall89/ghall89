@@ -1,8 +1,16 @@
+![](./img/codecat.gif)
+
 # 🌎 Hello World!
+
+[💼 Portfolio](https://ghall.dev) | [🏢 LinkedIn](https://www.linkedin.com/in/ghalldev/)
 
 ![](https://img.shields.io/github/followers/ghall89?style=social)
 
-My name is Graham, I'm a front end web developer who loves 🔨 building awesome things!
+My name is Graham, I'm a front-end web developer who loves:
+
+- 🔨 Building awesome projects
+- 💡 Solving challenging problems
+- 🎓 Learning new things
 
 ## Skills
 
@@ -12,5 +20,3 @@ My name is Graham, I'm a front end web developer who loves 🔨 building awesome
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)

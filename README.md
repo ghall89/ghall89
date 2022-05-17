@@ -6,17 +6,21 @@
 
 My name is Graham, I'm a front-end web developer who loves:
 
-- 🔨 Building awesome projects
-- 💡 Solving challenging problems
-- 🎓 Learning new things
+```
+🔨 Building awesome projects
+💡 Solving challenging problems
+🎓 Learning new things
+```
 
-## Skills
+## 👨‍💻 Tech
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git)](https://skillicons.dev)
 
-![](./img/codecat.gif)
+## 📊 Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghall89&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghall89&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghall89&theme=default)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ghall89&icon=0&color=0)](https://visitcount.itsvg.in)

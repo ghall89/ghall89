@@ -12,9 +12,9 @@ My name is Graham, I'm a front-end web developer who loves:
 🎓 Learning new things
 ```
 
-## 👨‍💻 Tech
+## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nextjs,tailwind,bootstrap,git,netlify,vercel)](https://skillicons.dev)
 
 ## 📊 Stats
 

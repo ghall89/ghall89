@@ -14,7 +14,7 @@ My name is Graham, I'm a front-end web developer who loves:
 
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nextjs,tailwind,bootstrap,git,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nextjs,materialui,tailwind,bootstrap,mongodb,git,netlify,vercel,swift&perline=7)](https://skillicons.dev)
 
 ## 📊 Stats
 

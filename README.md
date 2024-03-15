@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/followers/ghall89?style=social)
 
-My name is Graham, I'm a front-end web developer who loves:
+My name is Graham, I'm a full-stack web developer who loves:
 
 ```
 🔨 Building awesome projects
@@ -14,7 +14,7 @@ My name is Graham, I'm a front-end web developer who loves:
 
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nextjs,materialui,tailwind,bootstrap,mongodb,git,netlify,vercel,swift&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,nextjs,bun,materialui,tailwind,bootstrap,mongodb,postgres,prisma,git,netlify,vercel,swift&perline=8)](https://skillicons.dev)
 
 ## 📊 Stats
 

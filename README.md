@@ -14,7 +14,7 @@ My name is Graham, I'm a full-stack web developer who loves:
 
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,nextjs,bun,materialui,tailwind,bootstrap,mongodb,postgres,prisma,git,netlify,vercel,swift&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,astro,nextjs,svelte,solidjs,bun,yarn,npm,express,materialui,tailwind,bootstrap,mongodb,postgres,prisma,git,netlify,vercel,swift,go,md&perline=8)](https://skillicons.dev)
 
 ## 📊 Stats
 
